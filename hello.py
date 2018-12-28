@@ -1,2 +1,0 @@
-new = "helloworld"
-print new
